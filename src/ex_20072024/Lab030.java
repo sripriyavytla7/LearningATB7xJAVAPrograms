@@ -13,6 +13,7 @@ public class Lab030
         Scanner sc= new Scanner(System.in);
         System.out.println("Please enter number, ex: 003");
         int a = sc.nextInt();
+        // int b = 009;
 
         switch (a)
         {
